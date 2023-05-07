@@ -1,0 +1,22 @@
+.mainDivForm{
+    @apply
+    w-full
+    h-screen
+    bg-slate-200
+    p-4
+}
+
+.inputLabel{
+    @apply
+    font-normal
+    p-4
+    
+}
+
+.inputField{
+    @apply
+    p-1
+    rounded-md
+    border-slate-300
+    border-2
+}
